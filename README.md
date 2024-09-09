@@ -1,12 +1,12 @@
-# Malak Sadek [![Profile Views badge](https://hits.sh/github.com/MalakSadek.svg?label=profile%20views&color=007ec6)](https://hits.sh/github.com/MalakSadek/) [![Hits](https://hits.sh/github.com/MalakSadek.svg?view=today-total&label=views%20today&color=007ec6)](https://hits.sh/github.com/MalakSadek/) ![GitHub Followers](https://img.shields.io/github/followers/MalakSadek) ![GitHub Stars Earned](https://img.shields.io/github/stars/MalakSadek)
+# Malak Sadek [![Profile Views badge](https://hits.sh/github.com/MalakSadek.svg?label=profile%20views&color=FF6DBB)](https://hits.sh/github.com/MalakSadek/) [![Hits](https://hits.sh/github.com/MalakSadek.svg?view=today-total&label=views%20today&color=FF6DBB)](https://hits.sh/github.com/MalakSadek/) ![GitHub Followers](https://img.shields.io/github/followers/MalakSadek) ![GitHub Stars Earned](https://img.shields.io/github/stars/MalakSadek)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=580&lines=Design+Engineering+Doctoral+Candidate%7C;Mixed+Method+Researcher+(User%2C+Design%2C+Product);User+Experience+Designer;Computer+Scientist+and+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=580&color=FF6DBB&lines=Design+Engineering+Doctoral+Candidate%7C;Mixed+Method+Researcher+(User%2C+Design%2C+Product);User+Experience+Designer;Computer+Scientist+and+Engineer)](https://git.io/typing-svg)
 
 <a href="https://github.com/MalakSadek">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=MalakSadek&row=2&column=3&margin-w=10&no-bg=true&theme=dracula&rank=-?" />
 </a>
 <a href="https://github.com/MalakSadek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakSadek&layout=compact&&langs_count=8&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakSadek&layout=compact&&langs_count=8&theme=dracula&title_color=FF6DBB&bg_color=0f1216" />
 </a>
 
 # About Me
@@ -48,17 +48,15 @@
 <details>
 <summary>Frameworks</summary>
 
-#### Main
+#### Web Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-#### Web Development
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -101,7 +99,7 @@
 #### Collaboration Tools
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
 </details>
 
