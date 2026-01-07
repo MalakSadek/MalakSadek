@@ -2,24 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=580&color=FF6DBB&lines=Design+Engineering+Doctoral+Candidate%7C;Mixed+Method+Researcher+(User%2C+Design%2C+Product);User+Experience+Designer;Computer+Scientist+and+Engineer)](https://git.io/typing-svg)
 
-<a href="https://github.com/MalakSadek">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=MalakSadek&row=2&column=3&margin-w=10&no-bg=true&theme=dracula&rank=-?" />
-</a>
-<a href="https://github.com/MalakSadek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalakSadek&layout=compact&&langs_count=8&theme=dracula&title_color=FF6DBB&bg_color=0f1216" />
-</a>
-
 # About Me
 
 🇪🇬 My name is Malak (which means angel in Arabic) and I was born and raised in Cairo, Egypt. 
 
-👩🏻‍🎓 I am currently a Design Engineering postgraduate researcher at Imperial College London. 
+👩🏻‍🎓 I hold a PhD in Design Engineering from Imperial College London, an MSc in Human Computer Interaction from the University of St Andrews, and a BSc in Computer Engineering with a minor in Digital Media from the American University in Cairo.
 
-💻 I got my Bachelor’s degree in Computer Engineering with a minor in Digital Media from the American University in Cairo in 2019 and then moved to Scotland to get a Master’s degree in Human Computer Interaction from the University of St Andrews.
-
-🦆 In my spare time, I enjoy learning about animals and interacting with them, playing squash, watching Formula 1, playing video games, and reading.
-
-📝 I put together this README as a sample of my [portfolio website](https://malaksadekapps.com) for all the work I've done. I’m currently seeking full-time employment – so contact me if you have any opportunities!
+🦆 In my spare time, I enjoy learning about animals and volunteering as a zookeeper, playing squash, watching Formula 1, playing video games, and reading.
 
 # My Stack
 
