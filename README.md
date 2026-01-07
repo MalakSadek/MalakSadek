@@ -1,6 +1,6 @@
 # Malak Sadek [![Profile Views badge](https://hits.sh/github.com/MalakSadek.svg?label=profile%20views&color=FF6DBB)](https://hits.sh/github.com/MalakSadek/) [![Hits](https://hits.sh/github.com/MalakSadek.svg?view=today-total&label=views%20today&color=FF6DBB)](https://hits.sh/github.com/MalakSadek/) ![GitHub Followers](https://img.shields.io/github/followers/MalakSadek) ![GitHub Stars Earned](https://img.shields.io/github/stars/MalakSadek)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=580&color=FF6DBB&lines=Researcher+and+Academic+in+Human+Centred+AI+and+Value+Sensitive+Conversational+Technologies%7C;Design+Research+Consultant%7C;Coding+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=1100&color=FF6DBB&lines=Researcher+and+Academic+in+Human+Centred+AI+and+Value+Sensitive+Conversational+Technologies%7C;Design+Research+Consultant%7C;Coding+Enthusiast)](https://git.io/typing-svg)
 
 # About Me
 
