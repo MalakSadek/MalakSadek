@@ -6,6 +6,8 @@
 
 🇪🇬 My name is Malak (which means angel in Arabic) and I was born and raised in Cairo, Egypt. 
 
+🍎 I currently teach human-inspired AI at Cambridge University and conduct research on aligning conversational AI with human values.
+
 👩🏻‍🎓 I hold a PhD in Design Engineering from Imperial College London, an MSc in Human Computer Interaction from the University of St Andrews, and a BSc in Computer Engineering with a minor in Digital Media from the American University in Cairo.
 
 🦆 In my spare time, I enjoy learning about animals and volunteering as a zookeeper, playing squash, watching Formula 1, playing video games, and reading.
